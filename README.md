@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/kooperkodes](https://dev.to/kooperkodes)
 
-- 💬 Ask me about **apache spark, aws,gcp,sql**
+- 💬 Ask me about ** react, node, google cloud, aws**
 
 - 📫 How to reach me **khalifbcooper@outlook.com**
 
